@@ -2,8 +2,9 @@ export const Bio = {
   name: "Surendra Kumar",
   roles: [
     "Software Developer Engineer",
+     "Software Engineer",
     "Full Stack Developer",
-    "Web Developer",
+    "Application Developer",
     
   ],
   description:
